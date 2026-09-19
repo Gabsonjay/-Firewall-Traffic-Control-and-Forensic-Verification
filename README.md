@@ -1,6 +1,6 @@
 # -Firewall-Traffic-Control-and-Forensic-Verification
 
-<h1>Gabriel - Data Carving with XXD, Binwalk and Scalpel </h1>
+<h1>Gabriel - Firewall-Traffic-Control-and-Forensic-Verification </h1>
 
 
 
@@ -22,55 +22,35 @@ Explain host-based and network-based firewalls; interpret INPUT/OUTPUT/FORWARD c
 
 <p align="center">
 Create the evidence folder: <br/>
-<img src="https://imgur.com/yksoaVd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/WPZ8sKh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Evidence:  <br/>
-<img src="https://imgur.com/MUdZvTv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/JRau8Xt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 EVidence: <br/>
-<img src="https://imgur.com/RVFgwH3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/i8PsM1V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Evidence:  <br/>
-<img src="https://imgur.com/vm4XpUJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/31pxOr1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Evidence:  <br/>
-<img src="https://imgur.com/6EfwrGp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/31pxOr1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Evidence:  <br/>
-<img src="https://imgur.com/bJlD7mb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ubQn1uT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Evidence:  <br/>
-<img src="https://imgur.com/pEBDN3W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/JLDwk73.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Evidence:  <br/>
-<img src="https://imgur.com/6vja5gr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Evidence:  <br/>
-<img src="https://imgur.com/9AhZ2sL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Evidence:  <br/>
-<img src="https://imgur.com/CiuyJwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Evidence:  <br/>
-<img src="https://imgur.com/RCSnrN6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Evidence:  <br/>
-<img src="https://imgur.com/PQdPOv5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Evidence:  <br/>
-<img src="https://imgur.com/lbOJ3pX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/oZN8tib.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
